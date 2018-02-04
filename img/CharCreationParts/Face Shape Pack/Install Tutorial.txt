@@ -1,0 +1,11 @@
+It's reccomended that you watch this video to walk you through how to set up these pieces correctly.
+
+https://www.youtube.com/watch?v=MpWwbgJXvHg
+
+Thanks for downloading! Happy Game Making!
+
+TOS:
+Credit: Kadokawa
+Maker Required: RPG Maker MV 1.3.0 +
+Pieces Formatted for use with SRD-Character Creator EX by Rhino
+https://forums.rpgmakerweb.com/index.php?threads/.77641/
