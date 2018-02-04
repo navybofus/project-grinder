@@ -1,5 +1,5 @@
 //=============================================================================
-// rpg_core.js v1.5.1
+// rpg_core.js v1.5.1 - Yanfly Desktop Optimized Version Update
 //=============================================================================
 
 //-----------------------------------------------------------------------------
@@ -181,6 +181,7 @@ Utils.RPGMAKER_NAME = 'MV';
  * @final
  */
 Utils.RPGMAKER_VERSION = "1.5.1";
+Utils.RPGMAKER_VERSION.Yanfly = true;
 
 /**
  * Checks whether the option is in the query string.
@@ -4396,7 +4397,7 @@ Sprite.prototype._renderWebGL = function(renderer) {
         } else {
             // use pixi super-speed renderer
             renderer.setObjectRenderer(renderer.plugins[this.pluginName]);
-			renderer.plugins[this.pluginName].render(this);
+            renderer.plugins[this.pluginName].render(this);
         }
     }
 };
@@ -5481,7 +5482,7 @@ Tilemap.WATERFALL_AUTOTILE_TABLE = [
 function ShaderTilemap() {
     Tilemap.apply(this, arguments);
     this.roundPixels = true;
-}
+};
 
 ShaderTilemap.prototype = Object.create(Tilemap.prototype);
 ShaderTilemap.prototype.constructor = ShaderTilemap;
