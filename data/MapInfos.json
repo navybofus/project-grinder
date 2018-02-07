@@ -5,5 +5,6 @@ null,
 {"id":3,"expanded":false,"name":"HeroTownCombatShop","order":2,"parentId":1,"scrollX":819,"scrollY":466},
 {"id":4,"expanded":false,"name":"TestField","order":4,"parentId":0,"scrollX":1769.4545454545455,"scrollY":1575.2727272727273},
 {"id":5,"expanded":false,"name":"CharacterCreation","order":5,"parentId":0,"scrollX":1786.909090909091,"scrollY":1016.7272727272727},
-{"id":6,"expanded":false,"name":"Field","order":6,"parentId":0,"scrollX":1769.4545454545455,"scrollY":1189.0909090909092}
+{"id":6,"expanded":true,"name":"Field","order":6,"parentId":0,"scrollX":1769.4545454545455,"scrollY":1171.6363636363637},
+{"id":7,"expanded":false,"name":"MAP007","order":7,"parentId":0,"scrollX":1446,"scrollY":792}
 ]
