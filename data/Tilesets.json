@@ -9,5 +9,5 @@ null,
 {"id":7,"flags":[16],"mode":1,"name":"FSM Town","note":"","tilesetNames":["fsm_Town01_A1","fsm_Town01_A2","fsm_Town01_A3","fsm_Town01_A4","fsm_Town01_A5","fsm_Town01_B","fsm_Town01_C","fsm_Town01_D","fsm_Town01_E"]},
 {"id":8,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]},
 {"id":9,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]},
-{"id":10,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]}
+{"id":10,"flags":[16],"mode":1,"name":"High Fantasy Outdoors","note":"","tilesetNames":["HF1_A1_1","HF1_A2","HF1_A3_1","HF1_A4_1","HF1_A5_1","HF1_Outdoors_1","HF1_Outdoors_2","HF1_Outdoors_3","HF1_Trees_1"]}
 ]
